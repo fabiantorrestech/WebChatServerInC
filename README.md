@@ -1,6 +1,6 @@
 # WebChatServerInC
 
-[Live Demo:](https://replit.com/@fabiantorrestec/WebChatServerInC#README.md)
+Live Demo:https://replit.com/@fabiantorrestec/WebChatServerInC#README.md
 
 _This demo will not work in Repl.it, due to the fact that you need to have that index.html page open in another tab while having the server running for this function. The online webchat environment doesn't allow a reference from the index.html to reference this online IDE's webchat server._
 
